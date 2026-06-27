@@ -17,7 +17,7 @@ insights to support data-driven business decisions.
 | Tool | Purpose |
 |------|---------|
 | Power BI | Data Visualization & Dashboard |
-| Microsoft Excel | Data Preparation |
+| Figma | Dashboard UI Design & Prototyping |
 
 ## 📊 Key Findings
 - Identified a significant **year-over-year sales decline** in a specific period
